@@ -29,6 +29,16 @@
         android:text="Count"/>
 
     <Button
+        android:id="@+id/btn_subtract"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="12dp"
+        android:layout_marginTop="36dp"
+        android:backgroundTint="@color/teal_700"
+        android:background="@drawable/button_background_reset"
+        android:text="Subtract"/>
+
+    <Button
         android:id="@+id/btn_reset"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
